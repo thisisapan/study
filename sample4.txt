@@ -4,8 +4,5 @@ test
 aaa
 aaa
 bbb
-cc
-
-bbb
 ccc
-
+zzz
