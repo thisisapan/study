@@ -2,5 +2,6 @@ hoge
 hoge
 addHoge
 addFuga
+addFuga
 addHage
 addFooo
